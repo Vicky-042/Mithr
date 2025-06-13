@@ -16,6 +16,27 @@ A no-code, beginner-friendly AutoML tool built with Streamlit that lets users up
 - ⬇️ Export Predictions
 - 🎨 Theme Customization & Visualization Suggestions
 
+## 🧪 Example Use Case
+Upload datasets like mobile price prediction or housing data.
+
+Use auto-cleaning and visual EDA to explore the data.
+
+Train a model and export predictions for reporting or analysis.
+
+##📸 UI Preview
+
+##🛠 Tech Stack
+Python
+
+Streamlit
+
+Scikit-learn
+
+Plotly / Seaborn / Matplotlib
+
+Pandas / NumPy
+
+
 ## 📦 Setup
 
 ```bash
