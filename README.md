@@ -23,9 +23,7 @@ Use auto-cleaning and visual EDA to explore the data.
 
 Train a model and export predictions for reporting or analysis.
 
-##📸 UI Preview
-
-##🛠 Tech Stack
+-🛠 Tech Stack
 Python
 
 Streamlit
